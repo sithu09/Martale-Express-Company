@@ -1,0 +1,6 @@
+{
+    "python.dataScience.colorizeInputBox": false,
+    "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+    "workbench.preferredLightColorTheme": "Visual Studio Dark",
+    "workbench.editor.showIcons": false
+}
